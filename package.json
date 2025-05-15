@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://jjquiceno.github.io/GGVC",
+  "homepage": "https://github.com/jjquiceno/GGVC.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
