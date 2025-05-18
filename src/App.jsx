@@ -17,7 +17,6 @@ function App() {
       <Route path="/ajustes" element={<AjustesPage/>}/>
       <Route path="/ganado" element={<GanadoPage/>}/>
       <Route path="/ganadoList" element={<GanadoListPage/>}/>
-      {/* <Route path="/medica" element={<MedicaPage/>}/> */}
     </Routes>
   )
 }
